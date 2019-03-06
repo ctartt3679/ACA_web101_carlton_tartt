@@ -1,16 +1,16 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background-image: url(./BABY.jpg);
+    background-image: url(./my\ website.jpg);
     background-repeat: no-repeat;
-    background-size: 1600px 1000px;
+    background-size: 1600px 900px;
     width: 100vw;
     height: 100vh;
   }
   
   .logo {
-    width: 250px;
-    height: 275px;
-    margin: 3% 10%;
+    width: 150px;
+    height: 100px;
+    margin: 3% 10% ;
   }
   
   header {
