@@ -1,67 +1,100 @@
-.border{
-    border:4px solid black;
+@import url('https://fonts.googleapis.com/css?family=Srisakdi');
+.border:{
+    border:4px solid black; 
+    
 }
-.border2{
+.border2:hover{
     border: 3px solid whitesmoke;
+    background: white;
 }
-.border3{
+.border3:hover{
     border:3px solid whitesmoke;
+     background: white;
 }
-.border4{
+.border4:hover{
     border:3px solid whitesmoke;
+    background:white;
 }
-.border5{
+.border5:hover{
     border:3px solid white;
+    background:white;
 }
-.border6{
+.border6:hover{
     border:3px solid white;
+    background:blueviolet;
 }
-.border7{
+.border7:hover{
     border:3px solid whitesmoke;
+    background:white;
 }
-.border8{
+.border8:hover{
     border:3px solid whitesmoke;
+    background:blue;
 }
-.border9{
+.border9:hover{
     border:3px solid whitesmoke;
-}.border10{
+    background: white;
+}.border10:hover{
     border:3px solid whitesmoke;
-}.border11{
+    background:blue;
+}.border11:hover{
     border:3px solid whitesmoke;
-}.border12{
+    background:white;
+}.border12:hover{
     border:3px solid whitesmoke;
-}.border13{
+    background:blue;
+}.border13:hover{
     border:3px solid whitesmoke;
-}.border14{
+    background:white;
+}.border14:hover{
     border:3px solid whitesmoke;
-}.border15{
+    background:blue;
+}.border15:hover{
     border:3px solid whitesmoke;
-}.border16{
+    background:white;
+}.border16:hover{
     border:3px solid whitesmoke;
-}.border17{
+    background:blue;
+}.border17:hover{
     border:3px solid whitesmoke;
-}.border18{
+    background:white;
+}.border18:hover{
     border:3px solid whitesmoke;
-}.border19{
+    background:blue;
+}.border19:hover{
     border:3px solid whitesmoke;
-}.border20{
+    background:white;
+}.border20:hover{
     border:3px solid whitesmoke;
-}.border21{
+    background:blue;
+}.border21:hover{
     border:3px solid whitesmoke;
-}.border22{
+    background:white;
+}.border22:hover{
     border:3px solid whitesmoke;
-}.border23{
+    background:blue;
+}.border23:hover{
     border:3px solid whitesmoke;
-}.border24{
+    background:white;
+}.border24:hover{
     border:3px solid whitesmoke;
-}.border25{
+    background:blue;
+}.border25:hover{
     border:3px solid whitesmoke;
+    background:white;
 }
 .blog-container{
     margin: 650px 400px; 
 }
 body{
     background-color: greenyellow;
+    font-family: 'Srisakdi', cursive;
+}
+.h1 {
+background-color:  blue;
+}
+.MY BLOG:HOVER{
+  background:white;  
 }
 
 

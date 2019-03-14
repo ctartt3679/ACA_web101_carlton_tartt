@@ -1,0 +1,9 @@
+.background{
+    background-image: url("./atlanta.jpg");
+    width: 100%;
+    height: 100vh;
+    margin: 0%
+}
+.title{
+    text-align: center;
+}
